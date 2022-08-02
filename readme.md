@@ -11,3 +11,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+## Dear Mam
+First of all I just ran a command on my project root folder docker-compose -v by using cmd, it checks the version of docker-compose on my machine.
+Secondly, same I ran a command named docker -v, it checks the version of docker on my machine.
+after that, I ran a command named docker-compose up and this command started building frontend, backend and database of my project.
